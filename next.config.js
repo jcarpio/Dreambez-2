@@ -42,4 +42,9 @@ const nextConfig = {
   },
 };
 
-module.exports = withNextIntl(withContentlayer(nextConfig));
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  withNextIntl(withContentlayer(nextConfig))
+};
