@@ -5,19 +5,22 @@ import { styles, domainPath } from '@/components/shared/styles';
 import MaxWidthWrapper from "@/components/shared/max-width-wrapper";
 import { HeaderSection } from "@/components/shared/header-section";
 import CTA from "@/components/sections/CTA";
-import { unstable_setRequestLocale } from "next-intl/server";
+import { unstable_setRequestLocale, getTranslations } from "next-intl/server";
 
-export default function HeadshotStylePage({ params: { locale } }: { params: { locale: string } }) {
+export default async function HeadshotStylePage({ params: { locale } }: { params: { locale: string } }) {
   unstable_setRequestLocale(locale);
+  const t = await getTranslations("HeadshotStylePage"); // ✅ Fetch translations for the "HeadshotStylePage" section
 
   return (
     <MaxWidthWrapper className="py-12">
-     <HeaderSection
-      label={t("HeadshotStylePage.label")}
-      title={t("HeadshotStylePage.title")}
-      subtitle={t("HeadshotStylePage.subtitle")}
-    />
-      {/* styles */}
+      {/* ✅ Header section with translated content */}
+      <HeaderSection
+        label={t("label")}
+        title={t("title")}
+        subtitle={t("subtitle")}
+      />
+
+      {/* ✅ Grid section for styles */}
       <div className="mt-12">
         <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
           {styles.map((style, index) => (
@@ -26,14 +29,18 @@ export default function HeadshotStylePage({ params: { locale } }: { params: { lo
                 <div className="relative aspect-square">
                   <img
                     src={`${domainPath}/${style.img}`}
-                    alt={`AI Headshot: ${style.prompt}`}
+                    alt={t("headshot.alt", { name: style.prompt })} // ✅ Translated alt attribute
                     className="size-full object-cover"
                   />
                   {style.hot && (
-                    <Badge variant="secondary" className="absolute right-2 top-2">HOT</Badge>
+                    <Badge variant="secondary" className="absolute right-2 top-2">
+                      {t("headshot.hot")} {/* ✅ Translated "HOT" badge */}
+                    </Badge>
                   )}
                   {style.isNew && (
-                    <Badge variant="destructive" className="absolute left-2 top-2">NEW</Badge>
+                    <Badge variant="destructive" className="absolute left-2 top-2">
+                      {t("headshot.new")} {/* ✅ Translated "NEW" badge */}
+                    </Badge>
                   )}
                 </div>
               </CardHeader>
@@ -44,6 +51,8 @@ export default function HeadshotStylePage({ params: { locale } }: { params: { lo
           ))}
         </div>
       </div>
+
+      {/* ✅ Call-to-action section */}
       <CTA />
     </MaxWidthWrapper>
   );
