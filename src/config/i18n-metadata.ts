@@ -1,8 +1,8 @@
 export const localeItems = [
 {code: 'en', name: 'English'},
-{code: 'zh-hans', name: '简体中文'},
+// {code: 'zh-hans', name: '简体中文'},
 // {code: 'de', name: 'Deutsch'},
-// {code: 'es', name: 'Español'},
+{code: 'es', name: 'Español'},
 // {code: 'fr', name: 'Français'},
 // {code: 'id', name: 'Bahasa Indonesia'},
 // {code: 'ja', name: '日本語'},
