@@ -178,7 +178,10 @@
 "HeadshotStylePage": {
     "label": "Estilos de DreamBez.com",
     "title": "Estilos de headshot versátiles para cualquier ocasión",
-    "subtitle": "Descubre nuestra diversa colección de estilos de headshots generados por IA. Rápido, fácil y personalizado solo para ti."
+    "subtitle": "Descubre nuestra diversa colección de estilos de headshots generados por IA. Rápido, fácil y personalizado solo para ti.",
+    "headshot": {
+      "alt": "Retrato generado por IA: {name}"
+    }
 },
 "PricingPage": {
     "metadata": {
