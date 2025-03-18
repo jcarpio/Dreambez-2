@@ -12,11 +12,11 @@ export default function HeadshotStylePage({ params: { locale } }: { params: { lo
 
   return (
     <MaxWidthWrapper className="py-12">
-      <HeaderSection
-        label={`HeadShots${locale === 'zh-hans' ? '·' : '.'}fun Styles`}
-        title="Versatile Headshot Styles"
-        subtitle="Discover our diverse collection of AI-generated headshot styles. Quick, easy, and personalized just for you!"
-      />
+     <HeaderSection
+      label={t("HeadshotStylePage.label")}
+      title={t("HeadshotStylePage.title")}
+      subtitle={t("HeadshotStylePage.subtitle")}
+    />
       {/* styles */}
       <div className="mt-12">
         <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
