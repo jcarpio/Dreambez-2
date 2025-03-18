@@ -181,7 +181,8 @@
     "subtitle": "Discover our diverse collection of AI-generated headshot styles. Quick, easy, and personalized just for you!",
     "headshot": {
       "alt": "AI Headshot: {{name}}",
-      "hot": "Hot"
+      "hot": "Hot!",
+      "new": "New!"
     }
   },
   "PricingPage": {
