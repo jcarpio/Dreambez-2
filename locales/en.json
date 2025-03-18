@@ -180,7 +180,8 @@
     "title": "Versatile Headshot Styles for Any Occasion",
     "subtitle": "Discover our diverse collection of AI-generated headshot styles. Quick, easy, and personalized just for you!",
     "headshot": {
-      "alt": "AI Headshot: {{name}}"
+      "alt": "AI Headshot: {{name}}",
+      "hot": "Hot"
     }
   },
   "PricingPage": {
