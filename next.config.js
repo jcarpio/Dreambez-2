@@ -40,11 +40,9 @@ const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ["@prisma/client"],
   },
+  eslint: {
+    ignoreDuringBuilds: true, 
+  },
 };
 
-module.exports = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  withNextIntl(withContentlayer(nextConfig))
-};
+module.exports = withNextIntl(withContentlayer(nextConfig));
