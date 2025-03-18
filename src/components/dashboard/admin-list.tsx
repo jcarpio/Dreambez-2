@@ -132,12 +132,13 @@ export default function UsersList() {
                         <DialogTitle>{user.name} - Studios</DialogTitle>
                       </DialogHeader>
                       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                        {user.studios.map((studio) => (
-                          <Badge variant="outline" className="text-lg">{studio.name}
+                         {user.studios.map((studio) => (
+                          <Badge key={studio.id || studio.name} variant="outline" className="text-lg">
+                             {studio.name}
                             <span className="text-xs text-muted-foreground"> : {studio.images.length} sample images</span>
-                          </Badge>
-                        ))}
-                      </div>
+                        </Badge>
+                                  ))}
+                    </div>
                     </DialogContent>
                   </Dialog>
                 </TableCell>
