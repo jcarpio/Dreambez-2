@@ -181,7 +181,8 @@
     "subtitle": "Descubre nuestra diversa colección de estilos de headshots generados por IA. Rápido, fácil y personalizado solo para ti.",
     "headshot": {
       "alt": "Retrato generado por IA: {name}",
-      "hot": "Hot"
+      "hot": "Hot!",
+      "new": "Nuevo!"
     }
 },
 "PricingPage": {
