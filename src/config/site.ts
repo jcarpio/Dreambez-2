@@ -11,10 +11,10 @@ export const siteConfig: SiteConfig = {
   url: site_url,
   ogImage: `${site_url}/_static/og.jpg`,
   links: {
-    twitter: "https://twitter.com/ullr_ai",
+    twitter: "https://twitter.com/jcarpio",
     github: "https://github.com/jcarpio/dreambez",
   },
-  mailSupport: "support@enkire.com",
+  mailSupport: "info@dreambez.com",
   structuredData: {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -36,7 +36,7 @@ export const siteConfig: SiteConfig = {
     },
   ],
   creator: "Enkire",
-  twitterCreator: "@UllrAI",
+  twitterCreator: "@jcarpio",
   icons: "/favicon.ico",
   manifest: `${site_url}/site.webmanifest`,
 };
@@ -51,11 +51,10 @@ export const footerLinks: SidebarNavItem[] = [
     ],
   },
   {
-    title: "Ullr AI Products",
+    title: "Enkire Products",
     items: [
-      { title: "PixMiller", href: "https://pixmiller.com" },
-      { title: "HeadShots fun", href: "https://headshot.cv" },
-      { title: "Ullr AI Lab", href: "https://ullrai.com" },
+      { title: "DreamBez.com", href: "https://dreambez.com" },
+
     ],
   },
   {
