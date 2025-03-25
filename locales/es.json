@@ -8,8 +8,8 @@
     "sign_in_with_linkedin": "Iniciar sesión con LinkedIn",
     "back": "Atrás",
     "welcome_back": "Bienvenido de nuevo",
-    "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta",
-    "do_not_have_an_account": "¿No tienes una cuenta?",
+    "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta en TruePowers.org",
+    "don't_have_an_account": "¿No tienes una cuenta?",
     "sign_up": "Regístrate",
     "email": "Correo electrónico",
     "sign_up_with_email": "Registrarse con correo electrónico",
@@ -34,258 +34,134 @@
     "mail_support": "Soporte por Correo",
     "admin_panel": "Panel de Administración",
     "users": "Usuarios",
-    "studios": "Actividades",
-    "predictions": "Evaluaciones",
+    "studios": "Cursos",
+    "predictions": "Intentos",
     "orders": "Pedidos",
     "log_out": "Cerrar sesión"
   },
   "sitefooter": {
     "sections": {
       "Company": "Empresa",
-      "Ullr AI Products": "Recursos para familias",
-      "Resources": "Materiales educativos"
+      "Ullr AI Products": "Plataforma de TruePowers.org",
+      "Resources": "Recursos educativos"
     },
     "links": {
       "About": "Sobre nosotros",
       "Terms": "Términos",
       "Privacy": "Privacidad",
       "Blog": "Blog",
-      "Pricing": "Planes",
-      "Styles": "Actividades",
-      "HeadShots fun": "Familias en equilibrio"
+      "Pricing": "Precios",
+      "Styles": "Cursos",
+      "HeadShots fun": "TruePowers.org"
     },
     "copyright": "Copyright © 2024. Todos los derechos reservados.",
     "built_by": "Desarrollado por",
     "open_source_by": "Código abierto por"
   },
   "HeroLanding": {
-    "make-photo-successful": "¡Transforma tu tiempo en familia en algo increíble!",
-    "fun_pro_for_every_occasion": "Crea experiencias memorables con nuestro sistema TOP:",
-    "headshots_fun": "Transformador, Optimista y Presente",
-    "get_unique_portraits": "Descubre cómo reconectar con tus hijos y liberarlos de la dependencia de las pantallas con herramientas creativas y mindfulness.",
-    "get_your_headshots": "Empieza ahora"
+    "make-photo-successful": "¡Activa tu poder lógico ahora!",
+    "fun_pro_for_every_occasion": "Resuelve desafíos como un genio en cualquier lugar y momento con",
+    "headshots_fun": "TruePowers.org",
+    "get_unique_portraits": "Domina puzzles lógicos, sudokus gigantes y planificación automatizada en solo <bold>10 minutos al día</bold>. Aprende desde tu móvil con la plataforma más accesible del mundo.",
+    "get_your_headshots": "Empieza tu viaje en TruePowers.org por solo 1€"
   },
   "Testimonials": {
     "label": "Testimonios",
-    "title": "Lo que dicen otras familias",
-    "subtitle": "Descubre cómo nuestro sistema ha transformado el tiempo en familia",
+    "title": "Lo que comparten nuestros estudiantes.",
+    "subtitle": "Descubre cómo TruePowers.org está transformando vidas enseñando a programar sin programar.",
     "reviews": {
-      "1": "Gracias a este programa, nuestros hijos ahora prefieren jugar juntos en lugar de estar pegados a la pantalla.",
-      "2": "El test inicial nos ayudó a darnos cuenta de cuánto necesitábamos cambiar nuestra relación con la tecnología en casa.",
-      "3": "El curso en línea nos dio herramientas prácticas y fáciles de aplicar para mejorar la convivencia familiar.",
-      "4": "Antes, el tiempo en casa era un caos con las pantallas, pero ahora tenemos rutinas divertidas y creativas.",
-      "5": "Nos encantó la combinación de creatividad, mindfulness y estrategias prácticas. Realmente funciona.",
-      "6": "Nunca imaginamos que con pequeños cambios podríamos mejorar tanto nuestra dinámica familiar.",
-      "7": "Desde que aplicamos los consejos, hemos recuperado el tiempo en familia y las cenas sin pantallas.",
-      "8": "Es increíble cómo estos métodos han logrado que nuestros hijos disfruten más de los juegos sin depender del móvil."
+      "1": "Gracias a TruePowers.org, ahora resuelvo sudokus gigantes en el metro mientras otros pierden el tiempo en redes sociales.",
+      "2": "Solo con 1€, aprendí a programar un planificador de horarios para mi negocio. ¡Y ahora mis amigos me piden que los ayude a automatizar sus tareas!",
+      "3": "Publicar mi primer libro de sudokus en Amazon fue un sueño hecho realidad gracias a lo que aprendí aquí.",
+      "4": "Nunca imaginé que aprender lógica computacional podría ser tan adictivo y útil al mismo tiempo.",
+      "5": "La comunidad de TruePowers.org es impresionante. Siempre encuentro apoyo cuando tengo dudas.",
+      "6": "Este curso me hizo darme cuenta de que la programación no es solo para ingenieros. Ahora, cualquier persona con lógica puede hacerlo.",
+      "7": "No es solo un curso, es una nueva manera de ver el mundo. Ahora entiendo cómo piensan los programadores sin escribir una sola línea de código.",
+      "8": "Antes me frustraba con la tecnología, ahora la uso a mi favor. ¡Gracias TruePowers.org!"
     }
   },
   "InfoLanding": {
-    "title": "Libérate de la dependencia digital",
-    "description": "Descubre cómo transformar el tiempo en familia con herramientas creativas y mindfulness.",
+    "title": "Despierta tu superpoder lógico",
+    "description": "Aprende programación lógica desde tu móvil y resuelve problemas complejos sin necesidad de saber código.",
     "list": {
       "title": {
-        "1": "Actividades prácticas",
-        "2": "Método basado en la ciencia",
-        "3": "Transformación en familia"
+        "1": "Aprende sin esfuerzo",
+        "2": "Ejercicios prácticos",
+        "3": "Domina la automatización"
       },
       "description": {
-        "1": "Ejercicios sencillos para reconectar y reducir el uso de pantallas.",
-        "2": "Basado en principios de creatividad, bienestar y mindfulness.",
-        "3": "Descubre estrategias para fortalecer el vínculo con tus hijos."
+        "1": "Convierte problemas difíciles en soluciones simples mediante reglas lógicas.",
+        "2": "Practica con retos como sudokus, puzzles y planificación inteligente.",
+        "3": "Utiliza la lógica para crear sistemas automatizados que resuelven problemas por ti."
       }
     }
   },
-  "CTA": {
-    "title": "¡Empieza hoy mismo!",
-    "description": "Accede a recursos gratuitos y comienza a transformar la dinámica en tu hogar.",
-    "button": "Únete a nuestra comunidad",
-    "cool_button": "Descarga recursos gratuitos",
-    "cool_title": "Redescubre la alegría del juego en familia",
-    "cool_description": "Herramientas prácticas para desconectar de las pantallas y fortalecer la conexión familiar."
-  },
   "PricingPage": {
     "metadata": {
-      "title": "Planes – {siteTitle}",
-      "description": "Explora nuestros recursos para transformar tu familia."
+      "title": "Precios – {siteTitle}",
+      "description": "Explora los precios de TruePowers.org."
     },
-    "label": "Planes",
-    "title": "Planes para cada familia",
-    "subtitle": "Elige la opción que mejor se adapte a tus necesidades.",
-    "trial_section_description": "Accede a recursos gratuitos y descubre cómo mejorar la convivencia en casa.",
+    "label": "Precios",
+    "title": "Precios simples y accesibles",
+    "subtitle": "Elige el plan que mejor se adapte a tu ritmo de aprendizaje. Sin tarifas ocultas, sin sorpresas.",
+    "trial_section_description": "Disfruta de una prueba de 7 días sin riesgo. Si no usas tus créditos, te devolvemos el dinero.",
+    "1_credit_1_headshot": "1 Crédito = 1 Ejercicio avanzado",
     "processing": "Procesando...",
-    "purchase": "Acceder",
+    "purchase": "Comprar",
     "most_popular": "Más popular",
     "package": "Paquete",
     "price": "Precio",
     "price_per": "Precio por",
+    "credits": "Créditos",
     "plans": {
       "1": {
-        "description": "Guía inicial: Primeros pasos para reducir el uso de pantallas.",
-        "features": "Recursos gratuitos"
+        "description": "Iniciador lógico: Tu primer paso hacia el pensamiento computacional",
+        "features": "1000 Créditos"
       },
       "2": {
-        "description": "Kit creativo: Actividades y estrategias para mejorar la convivencia.",
-        "features": "Curso online + PDFs"
+        "description": "Retador casual: Perfecto para aprender en el metro o durante una pausa",
+        "features": "10000 Créditos"
       },
       "3": {
-        "description": "Transformación familiar: Implementa cambios profundos y sostenibles.",
-        "features": "Curso completo + acceso a expertos"
+        "description": "Entrenamiento intensivo: Domina puzzles y planificación automatizada",
+        "features": "100000 Créditos"
+      },
+      "4": {
+        "description": "Nivel profesional: Prepárate para crear soluciones reales",
+        "features": "500000 Créditos"
+      },
+      "5": {
+        "description": "Pack mentor: Entrena mientras ayudas a otros en la comunidad",
+        "features": "1000000 Créditos"
+      },
+      "6": {
+        "description": "Modo infinito: Aprende sin límites, a tu ritmo",
+        "features": "2000000 Créditos"
       }
     }
   },
   "PricingPageFAQ": {
     "title": "Preguntas frecuentes",
-    "label": "FAQ",
-    "subtitle": "Resolvemos tus dudas sobre nuestro programa.",
+    "label": "Precios",
+    "subtitle": "Preguntas frecuentes sobre nuestra plataforma y sistema de créditos.",
     "qa": [
       [
-        "¿Cómo empiezo?",
-        "Puedes descargar nuestros recursos gratuitos y seguirnos en Telegram para recibir más herramientas."
+        "¿Qué es TruePowers.org?",
+        "Es una plataforma educativa que enseña a programar sin programar. Aprende lógica computacional desde tu móvil resolviendo sudokus, puzzles y planificación automatizada."
       ],
       [
-        "¿El contenido es adecuado para todas las edades?",
-        "Sí, está diseñado para familias con niños entre 6 y 13 años."
+        "¿Cómo funciona el sistema de créditos?",
+        "1 Crédito = 1 Ejercicio avanzado. Con solo 1€ obtienes suficientes créditos para completar el curso entero."
       ],
       [
-        "¿Necesito mucho tiempo para aplicar las estrategias?",
-        "No, nuestras herramientas están diseñadas para integrarse en tu día a día sin complicaciones."
+        "¿Necesito experiencia en programación?",
+        "No. TruePowers.org está diseñado para principiantes absolutos con un enfoque guiado paso a paso."
       ],
       [
-        "¿Este programa realmente reduce el uso de pantallas?",
-        "Sí, al aplicar las estrategias, notarás cambios significativos en la relación de tus hijos con la tecnología."
+        "¿Cuánto tiempo toma aprender?",
+        "Puedes avanzar a tu propio ritmo. Con solo 10 minutos al día, en pocas semanas notarás un cambio radical en tu pensamiento lógico."
       ]
     ]
   }
-},
- "BlogPage": {
-    "blog": "Blog",
-    "description": "Últimas noticias y actualizaciones de DreamBez.com",
-    "categories": "Categorías",
-    "all": "Todo",
-    "news": "Noticias",
-    "education": "Educación",
-    "more_articles": "Más artículos"
-},
-"StudioPage": {
-    "studios": "Estudios",
-    "create_new_studio": "Crear estudio",
-    "create_new_studio_short": "Crear",
-    "your_studios": "Tus estudios",
-    "a_list_of_all_your_created_studios": "Una lista de todos tus estudios creados.",
-    "name": "Nombre",
-    "type": "Tipo",
-    "headshots": "Headshots",
-    "created_at": "Creado el",
-    "no_studios_created": "No hay estudios creados",
-    "you_dont_have_any_studios_yet": "Aún no tienes ningún estudio. Comienza creando uno.",
-    "error_studio_type_required": "Por favor, selecciona un tipo de estudio.",
-    "error_studio_name_required": "Por favor, ingresa un nombre para el estudio.",
-    "error_at_least_one_image": "Por favor, sube al menos una imagen.",
-    "error_max_5_images": "Puedes subir un máximo de 5 imágenes.",
-    "error_failed_to_upload_image": "Error al subir la imagen",
-    "success_studio_created": "¡Estudio creado con éxito!",
-    "error_failed_to_create_studio": "Error al crear el estudio. Inténtalo de nuevo.",
-    "back_to_dashboard": "Volver al panel",
-    "enter_basic_info_for_your_studio": "Introduce la información básica de tu estudio",
-    "studio_name": "Nombre del estudio",
-    "this_is_the_name_that_will_be_displayed_for_your_studio": "Este es el nombre que se mostrará para tu estudio.",
-    "studio_type": "Tipo de estudio",
-    "male": "Hombre",
-    "female": "Mujer",
-    "kid": "Niño",
-    "select_the_type_of_studio_you_want_to_create": "Selecciona el tipo de estudio que deseas crear.",
-    "upload_sample_photos": "Sube fotos de muestra",
-    "please_upload_1_5_clear_front_facing_photos_that_meet_the_sample_photo_requirements": "Sube entre 1 y 5 fotos claras de frente que cumplan con los requisitos de fotos de muestra.",
-    "set_as_main": "Establecer como principal",
-    "main": "Principal",
-    "creating": "Creando...",
-    "upload_a_file": "Subir un archivo",
-    "or_drag_and_drop": "o arrastra y suelta",
-    "png_jpg_gif_up_to_10mb": "PNG, JPG, GIF hasta 10MB",
-    "create_studio": "Crear estudio",
-    "sample_photo_requirements": "Requisitos de fotos de muestra",
-    "make_sure_your_sample_photos_meet_these_standards": "Asegúrate de que tus fotos de muestra cumplan con estos estándares:",
-    "front_and_clear": "Frontal y clara",
-    "multiple_people": "Varias personas",
-    "side_shots": "Fotos de perfil",
-    "blurry_photos": "Fotos borrosas",
-    "obstructing": "Obstrucción",
-    "detailed_explanation_for": "Explicación detallada para",
-    "your_studio_name": "El nombre de tu estudio",
-    "select_studio_type": "Selecciona el tipo de estudio",
-    "error_failed_to_fetch_prediction_result": "Error al obtener el resultado de la predicción.",
-    "shooting_results": "Resultados de la toma",
-    "download": "Descargar",
-    "open_in_new_tab": "Abrir en una nueva pestaña",
-    "close": "Cerrar",
-    "your_studio_created_successfully": "¡Tu estudio se ha creado con éxito!",
-    "ready_to_shoot": "¿Listo para capturar?",
-    "click_shoot_below_to_begin_creating_your_first_headshot": "Haz clic en 'Capturar' abajo para comenzar a crear tu primer headshot.",
-    "each_shoot_generates_a_unique_headshot_even_with_the_same_style_or_prompt_try_multiple_times": "Cada toma genera un headshot único, incluso con el mismo estilo o prompt. Prueba varias veces.",
-    "studio_updated_successfully": "¡Estudio actualizado con éxito!",
-    "failed_to_update_studio_please_try_again": "Error al actualizar el estudio. Inténtalo de nuevo.",
-    "studio_deleted_successfully": "¡Estudio eliminado con éxito!",
-    "failed_to_delete_studio_please_try_again": "Error al eliminar el estudio. Inténtalo de nuevo.",
-    "edit_studio": "Editar estudio",
-    "delete_studio": "Eliminar estudio",
-    "deleting": "Eliminando...",
-    "delete": "Eliminar",
-    "cancel": "Cancelar",
-    "are_you_sure_you_want_to_delete_this_studio": "¿Estás seguro de que deseas eliminar este estudio?",
-    "this_action_cannot_be_undone": "Esta acción no se puede deshacer.",
-    "this_will_permanently_delete_the_studio_and_all_associated_data": "Esto eliminará permanentemente el estudio y todos los datos asociados.",
-    "save_changes": "Guardar cambios",
-    "insufficient_credits_please_add_more_credits_to_continue": "Créditos insuficientes. Agrega más créditos para continuar.",
-    "select_style": "Seleccionar estilo",
-    "custom": "Personalizado",
-    "show": "Mostrar",
-    "hide": "Ocultar",
-    "advanced_settings": "Configuración avanzada",
-    "custom_prompt_required": "Prompt personalizado (obligatorio)",
-    "enter_your_custom_prompt_here": "Introduce tu prompt personalizado aquí...",
-    "custom_negative_prompt_optional": "Prompt negativo personalizado (opcional)",
-    "enter_your_custom_negative_prompt_here": "Introduce tu prompt negativo personalizado aquí...",
-    "hot": "POPULAR",
-    "new": "NUEVO",
-    "aspect_ratio": "Relación de aspecto",
-    "portrait_3_4": "Retrato (3:4)",
-    "landscape_4_3": "Paisaje (4:3)",
-    "square_1_1": "Cuadrado (1:1)",
-    "portrait": "Retrato",
-    "landscape": "Paisaje",
-    "square": "Cuadrado",
-    "pay_and_shoot": "Pagar y capturar",
-    "from_0_4_headshot": "desde $0.4/Headshot",
-    "loading_credits": "Cargando créditos...",
-    "shoot": "Capturar",
-    "shooting": "Capturando...",
-    "failed_to_start_shoot": "Error al iniciar la captura",
-    "shooting_failed": "Error en la captura. Verifica las fotos subidas o contacta con soporte.",
-    "failed_to_start_shoot_please_try_again_or_contact_support": "Error al iniciar la captura. Inténtalo de nuevo o contacta con soporte.",
-    "shoot_started_successfully_1_credit_used": "Captura iniciada con éxito. 1 crédito utilizado.",
-    "processing": "Procesando...",
-    "completed": "Completado",
-    "failed": "Fallido",
-    "our_privacy_policy": "Nuestra política de privacidad",
-    "if_you_have_any_questions_about_the_photos": "Si tienes preguntas sobre la privacidad de las fotos, consulta:"
-},
-"Credits": {
-    "credits": "Créditos",
-    "your_current_balance": "Tu saldo actual",
-    "buy_credits": "Comprar créditos",
-    "check_your_credits_transactions_and_usage": "Revisa tus transacciones de créditos y su uso.",
-    "if_you_have_any_questions_about_billing_please_contact_us_at": "Si tienes alguna pregunta sobre la facturación, contáctanos en",
-    "billing": "Facturación",
-    "credits_activity": "Actividad de créditos",
-    "30_day_credit_activity_summary": "Resumen de actividad de créditos de los últimos 30 días",
-    "credits_history": "Historial de créditos",
-    "select_page_size": "Seleccionar tamaño de página",
-    "10_per_page": "10 por página",
-    "20_per_page": "20 por página",
-    "50_per_page": "50 por página",
-    "type": "Tipo",
-    "amount": "Cantidad",
-    "date": "Fecha"
 }
-}
+
