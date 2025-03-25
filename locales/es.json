@@ -8,7 +8,7 @@
     "sign_in_with_linkedin": "Iniciar sesión con LinkedIn",
     "back": "Atrás",
     "welcome_back": "Bienvenido de nuevo",
-    "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta en TruePowers.org",
+    "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta en nuestra plataforma",
     "don't_have_an_account": "¿No tienes una cuenta?",
     "sign_up": "Regístrate",
     "email": "Correo electrónico",
@@ -34,16 +34,16 @@
     "mail_support": "Soporte por Correo",
     "admin_panel": "Panel de Administración",
     "users": "Usuarios",
-    "studios": "Cursos",
-    "predictions": "Intentos",
+    "studios": "Recursos",
+    "predictions": "Evaluaciones",
     "orders": "Pedidos",
     "log_out": "Cerrar sesión"
   },
   "sitefooter": {
     "sections": {
       "Company": "Empresa",
-      "Ullr AI Products": "Plataforma de TruePowers.org",
-      "Resources": "Recursos educativos"
+      "Ullr AI Products": "Plataforma de bienestar familiar",
+      "Resources": "Recursos para familias"
     },
     "links": {
       "About": "Sobre nosotros",
@@ -51,117 +51,110 @@
       "Privacy": "Privacidad",
       "Blog": "Blog",
       "Pricing": "Precios",
-      "Styles": "Cursos",
-      "HeadShots fun": "TruePowers.org"
+      "Styles": "Recursos",
+      "HeadShots fun": "Bienestar Familiar"
     },
     "copyright": "Copyright © 2024. Todos los derechos reservados.",
     "built_by": "Desarrollado por",
     "open_source_by": "Código abierto por"
   },
   "HeroLanding": {
-    "make-photo-successful": "¡Activa tu poder lógico ahora!",
-    "fun_pro_for_every_occasion": "Resuelve desafíos como un genio en cualquier lugar y momento con",
-    "headshots_fun": "TruePowers.org",
-    "get_unique_portraits": "Domina puzzles lógicos, sudokus gigantes y planificación automatizada en solo <bold>10 minutos al día</bold>. Aprende desde tu móvil con la plataforma más accesible del mundo.",
-    "get_your_headshots": "Empieza tu viaje en TruePowers.org por solo 1€"
+    "make-photo-successful": "¡Recupera el tiempo en familia!",
+    "fun_pro_for_every_occasion": "Descubre un nuevo mundo de conexión con tus hijos a través de",
+    "headshots_fun": "nuestro sistema TOP",
+    "get_unique_portraits": "Aprende a reducir el tiempo frente a las pantallas y a crear momentos inolvidables con actividades transformadoras, optimistas y presentes.",
+    "get_your_headshots": "Descarga gratis nuestras herramientas y empieza hoy"
   },
   "Testimonials": {
     "label": "Testimonios",
-    "title": "Lo que comparten nuestros estudiantes.",
-    "subtitle": "Descubre cómo TruePowers.org está transformando vidas enseñando a programar sin programar.",
+    "title": "Lo que dicen las familias",
+    "subtitle": "Descubre cómo nuestro sistema ha ayudado a padres a conectar con sus hijos.",
     "reviews": {
-      "1": "Gracias a TruePowers.org, ahora resuelvo sudokus gigantes en el metro mientras otros pierden el tiempo en redes sociales.",
-      "2": "Solo con 1€, aprendí a programar un planificador de horarios para mi negocio. ¡Y ahora mis amigos me piden que los ayude a automatizar sus tareas!",
-      "3": "Publicar mi primer libro de sudokus en Amazon fue un sueño hecho realidad gracias a lo que aprendí aquí.",
-      "4": "Nunca imaginé que aprender lógica computacional podría ser tan adictivo y útil al mismo tiempo.",
-      "5": "La comunidad de TruePowers.org es impresionante. Siempre encuentro apoyo cuando tengo dudas.",
-      "6": "Este curso me hizo darme cuenta de que la programación no es solo para ingenieros. Ahora, cualquier persona con lógica puede hacerlo.",
-      "7": "No es solo un curso, es una nueva manera de ver el mundo. Ahora entiendo cómo piensan los programadores sin escribir una sola línea de código.",
-      "8": "Antes me frustraba con la tecnología, ahora la uso a mi favor. ¡Gracias TruePowers.org!"
+      "1": "Gracias a este sistema, ahora mis hijos juegan más y pasan menos tiempo con el móvil. ¡Se ha transformado nuestra dinámica familiar!",
+      "2": "Nunca imaginé que con herramientas tan simples podría reducir las rabietas y mejorar la convivencia en casa.",
+      "3": "El test de evaluación me abrió los ojos sobre cuánto dependíamos de las pantallas. Ahora tenemos un plan claro para cambiarlo.",
+      "4": "Mis hijos están más tranquilos, creativos y presentes. Este sistema funciona y lo recomiendo a todas las familias.",
+      "5": "Hemos vuelto a jugar juntos y a conversar más. Nos dimos cuenta de que el problema no eran las pantallas, sino cómo gestionábamos el tiempo en familia.",
+      "6": "Lo mejor es que es fácil de aplicar. No necesitas ser un experto, solo ganas de mejorar la relación con tus hijos.",
+      "7": "Este sistema ha sido un cambio de juego en nuestro hogar. Pasamos de discusiones constantes a disfrutar el tiempo juntos.",
+      "8": "La conexión que hemos recuperado con nuestros hijos no tiene precio. ¡Gracias por estas herramientas maravillosas!"
     }
   },
   "InfoLanding": {
-    "title": "Despierta tu superpoder lógico",
-    "description": "Aprende programación lógica desde tu móvil y resuelve problemas complejos sin necesidad de saber código.",
+    "title": "Vuelve a disfrutar en familia",
+    "description": "Descubre cómo reemplazar las pantallas por actividades llenas de creatividad, conexión y mindfulness.",
     "list": {
       "title": {
-        "1": "Aprende sin esfuerzo",
-        "2": "Ejercicios prácticos",
-        "3": "Domina la automatización"
+        "1": "Aprende estrategias efectivas",
+        "2": "Recupera la armonía en casa",
+        "3": "Disfruta sin pantallas"
       },
       "description": {
-        "1": "Convierte problemas difíciles en soluciones simples mediante reglas lógicas.",
-        "2": "Practica con retos como sudokus, puzzles y planificación inteligente.",
-        "3": "Utiliza la lógica para crear sistemas automatizados que resuelven problemas por ti."
+        "1": "Implementa nuestro sistema TOP para transformar la dinámica familiar.",
+        "2": "Evita conflictos y mejora la comunicación con herramientas simples y poderosas.",
+        "3": "Descubre actividades creativas y experiencias que reemplazan la dependencia digital."
       }
     }
   },
   "PricingPage": {
     "metadata": {
       "title": "Precios – {siteTitle}",
-      "description": "Explora los precios de TruePowers.org."
+      "description": "Explora nuestros recursos para mejorar el bienestar familiar."
     },
     "label": "Precios",
-    "title": "Precios simples y accesibles",
-    "subtitle": "Elige el plan que mejor se adapte a tu ritmo de aprendizaje. Sin tarifas ocultas, sin sorpresas.",
-    "trial_section_description": "Disfruta de una prueba de 7 días sin riesgo. Si no usas tus créditos, te devolvemos el dinero.",
-    "1_credit_1_headshot": "1 Crédito = 1 Ejercicio avanzado",
+    "title": "Accede a nuestras herramientas",
+    "subtitle": "Descubre los recursos gratuitos y las opciones avanzadas para mejorar tu vida en familia.",
+    "trial_section_description": "Empieza con nuestros materiales gratuitos y accede a recursos premium si deseas profundizar más.",
+    "1_credit_1_headshot": "1 Recurso = 1 Estrategia efectiva",
     "processing": "Procesando...",
-    "purchase": "Comprar",
+    "purchase": "Acceder",
     "most_popular": "Más popular",
     "package": "Paquete",
     "price": "Precio",
     "price_per": "Precio por",
-    "credits": "Créditos",
+    "credits": "Recursos",
     "plans": {
       "1": {
-        "description": "Iniciador lógico: Tu primer paso hacia el pensamiento computacional",
-        "features": "1000 Créditos"
+        "description": "Kit inicial: Primeros pasos para reducir el uso de pantallas",
+        "features": "Guía en PDF + Test de evaluación"
       },
       "2": {
-        "description": "Retador casual: Perfecto para aprender en el metro o durante una pausa",
-        "features": "10000 Créditos"
+        "description": "Recursos esenciales: Estrategias probadas para mejorar la convivencia",
+        "features": "Ejercicios + Casos prácticos"
       },
       "3": {
-        "description": "Entrenamiento intensivo: Domina puzzles y planificación automatizada",
-        "features": "100000 Créditos"
+        "description": "Plan transformador: Implementa cambios duraderos en tu hogar",
+        "features": "Acceso a curso online + Soporte en comunidad"
       },
       "4": {
-        "description": "Nivel profesional: Prepárate para crear soluciones reales",
-        "features": "500000 Créditos"
-      },
-      "5": {
-        "description": "Pack mentor: Entrena mientras ayudas a otros en la comunidad",
-        "features": "1000000 Créditos"
-      },
-      "6": {
-        "description": "Modo infinito: Aprende sin límites, a tu ritmo",
-        "features": "2000000 Créditos"
+        "description": "Acompañamiento personalizado",
+        "features": "Sesión con experto + Plan individualizado"
       }
     }
   },
   "PricingPageFAQ": {
     "title": "Preguntas frecuentes",
     "label": "Precios",
-    "subtitle": "Preguntas frecuentes sobre nuestra plataforma y sistema de créditos.",
+    "subtitle": "Preguntas frecuentes sobre nuestro sistema y recursos.",
     "qa": [
       [
-        "¿Qué es TruePowers.org?",
-        "Es una plataforma educativa que enseña a programar sin programar. Aprende lógica computacional desde tu móvil resolviendo sudokus, puzzles y planificación automatizada."
+        "¿En qué consiste este sistema?",
+        "Es un método diseñado para ayudar a las familias a reducir el tiempo frente a las pantallas y mejorar la conexión entre padres e hijos."
       ],
       [
-        "¿Cómo funciona el sistema de créditos?",
-        "1 Crédito = 1 Ejercicio avanzado. Con solo 1€ obtienes suficientes créditos para completar el curso entero."
+        "¿Es necesario eliminar completamente las pantallas?",
+        "No, el objetivo no es prohibir, sino equilibrar y ofrecer alternativas enriquecedoras."
       ],
       [
-        "¿Necesito experiencia en programación?",
-        "No. TruePowers.org está diseñado para principiantes absolutos con un enfoque guiado paso a paso."
+        "¿Qué edad es la ideal para aplicar estas estrategias?",
+        "Nuestro sistema está diseñado para familias con niños de 6 a 13 años, pero muchas estrategias pueden adaptarse a diferentes edades."
       ],
       [
-        "¿Cuánto tiempo toma aprender?",
-        "Puedes avanzar a tu propio ritmo. Con solo 10 minutos al día, en pocas semanas notarás un cambio radical en tu pensamiento lógico."
+        "¿Necesito comprar algo para empezar?",
+        "No. Puedes acceder a nuestros recursos gratuitos y empezar a aplicar cambios desde hoy."
       ]
     ]
   }
 }
+
 
