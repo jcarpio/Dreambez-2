@@ -6,20 +6,20 @@
     "email_login_text": "Puedes usar tu correo electrónico para",
     "sign_in_with_google": "Iniciar sesión con Google",
     "sign_in_with_linkedin": "Iniciar sesión con LinkedIn",
-    "back": "Atrás",
-    "welcome_back": "Bienvenido de nuevo",
-    "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta en nuestra plataforma",
+    "back": "Volver",
+    "welcome_back": "Bienvenida de nuevo",
+    "use_email_to_sign_in": "Usa tu correo para acceder a tu cuenta de Solución Mujer",
     "don't_have_an_account": "¿No tienes una cuenta?",
-    "sign_up": "Regístrate",
+    "sign_up": "Crear cuenta",
     "email": "Correo electrónico",
-    "sign_up_with_email": "Registrarse con correo electrónico",
+    "sign_up_with_email": "Crear cuenta con correo electrónico",
     "sign_in_with_email": "Iniciar sesión con correo electrónico",
     "or": "O",
     "continue_with_google": "Continuar con Google",
     "continue_with_linkedin": "Continuar con LinkedIn",
-    "create_an_account": "Crea una cuenta",
-    "enter_your_email_below_to_create_your_account": "Ingresa tu correo electrónico para crear tu cuenta",
-    "by_clicking_continue_you_agree_to_our": "Al hacer clic en continuar, aceptas nuestros",
+    "create_an_account": "Crear una cuenta",
+    "enter_your_email_below_to_create_your_account": "Introduce tu correo para crear tu cuenta",
+    "by_clicking_continue_you_agree_to_our": "Al continuar, aceptas nuestros",
     "terms_of_service": "Términos de servicio",
     "privacy_policy": "Política de privacidad"
   },
@@ -30,55 +30,61 @@
     "dashboard": "Panel de Control",
     "billing": "Facturación",
     "settings": "Configuración",
-    "homepage": "Página Principal",
-    "mail_support": "Soporte por Correo",
-    "admin_panel": "Panel de Administración",
-    "users": "Usuarios",
-    "studios": "Recursos",
-    "predictions": "Evaluaciones",
+    "homepage": "Inicio",
+    "mail_support": "Soporte por correo",
+    "admin_panel": "Panel de administración",
+    "users": "Usuarias",
+    "studios": "Cursos",
+    "predictions": "Progresos",
     "orders": "Pedidos",
     "log_out": "Cerrar sesión"
   },
   "sitefooter": {
     "sections": {
-      "Company": "Empresa",
-      "Ullr AI Products": "Plataforma de bienestar familiar",
-      "Resources": "Recursos para familias"
+      "Company": "Compañía",
+      "Ullr AI Products": "Recursos",
+      "Resources": "Educación"
     },
     "links": {
-      "About": "Sobre nosotros",
+      "About": "Sobre nosotras",
       "Terms": "Términos",
       "Privacy": "Privacidad",
-      "Blog": "Blog",
+      "PixMiller": "Solución Mujer",
+      "HeadShots fun": "Solución Mujer",
+      "Ullr AI Lab": "Nuestro equipo",
       "Pricing": "Precios",
-      "Styles": "Recursos",
-      "HeadShots fun": "Bienestar Familiar"
+      "Styles": "Estilo de vida",
+      "Blog": "Blog"
     },
     "copyright": "Copyright © 2024. Todos los derechos reservados.",
     "built_by": "Desarrollado por",
-    "open_source_by": "Código abierto por"
+    "open_source_by": "Inspirado por mujeres reales"
   },
   "HeroLanding": {
-    "make-photo-successful": "¡Recupera el tiempo en familia!",
-    "fun_pro_for_every_occasion": "Descubre un nuevo mundo de conexión con tus hijos a través de",
-    "headshots_fun": "nuestro sistema TOP",
-    "get_unique_portraits": "Aprende a reducir el tiempo frente a las pantallas y a crear momentos inolvidables con actividades transformadoras, optimistas y presentes.",
-    "get_your_headshots": "Descarga gratis nuestras herramientas y empieza hoy"
+    "make-photo-successful": "¡Haz que tu vida financiera sea un éxito desde hoy!",
+    "fun_pro_for_every_occasion": "Educación y transformación para cada mujer, todo empieza en",
+    "headshots_fun": "Solución Mujer",
+    "get_unique_portraits": "Descubre cómo alcanzar tu libertad financiera en solo <bold>3 meses</bold> con herramientas emocionales y educativas. Acceso de por vida.",
+    "get_your_headshots": "Empieza tu transformación financiera"
   },
   "Testimonials": {
     "label": "Testimonios",
-    "title": "Lo que dicen las familias",
-    "subtitle": "Descubre cómo nuestro sistema ha ayudado a padres a conectar con sus hijos.",
+    "title": "Lo que comparten nuestras alumnas",
+    "subtitle": "Descubre las historias de mujeres que transformaron su vida con Solución Mujer",
     "reviews": {
-      "1": "Gracias a este sistema, ahora mis hijos juegan más y pasan menos tiempo con el móvil. ¡Se ha transformado nuestra dinámica familiar!",
-      "2": "Nunca imaginé que con herramientas tan simples podría reducir las rabietas y mejorar la convivencia en casa.",
-      "3": "El test de evaluación me abrió los ojos sobre cuánto dependíamos de las pantallas. Ahora tenemos un plan claro para cambiarlo.",
-      "4": "Mis hijos están más tranquilos, creativos y presentes. Este sistema funciona y lo recomiendo a todas las familias.",
-      "5": "Hemos vuelto a jugar juntos y a conversar más. Nos dimos cuenta de que el problema no eran las pantallas, sino cómo gestionábamos el tiempo en familia.",
-      "6": "Lo mejor es que es fácil de aplicar. No necesitas ser un experto, solo ganas de mejorar la relación con tus hijos.",
-      "7": "Este sistema ha sido un cambio de juego en nuestro hogar. Pasamos de discusiones constantes a disfrutar el tiempo juntos.",
-      "8": "La conexión que hemos recuperado con nuestros hijos no tiene precio. ¡Gracias por estas herramientas maravillosas!"
+      "1": "Antes vivía con miedo al dinero. Hoy entiendo cómo usarlo con confianza. Este curso me cambió la vida.",
+      "2": "Gracias a Solución Mujer ahora puedo ahorrar, organizar mis finanzas y soñar con viajar.",
+      "3": "Nunca pensé que entender el dinero pudiera ser tan emocional y transformador. Me siento como una Reina.",
+      "4": "Estoy enseñando a mis hijos sobre dinero. El cambio no fue solo para mí, fue para mi familia."
     }
+  },
+  "CTA": {
+    "title": "Empieza hoy",
+    "description": "¿Cansada de no llegar a fin de mes? Este curso te dará las herramientas emocionales y educativas que necesitas para transformar tu relación con el dinero y sentirte como una Reina.",
+    "button": "Quiero mi libertad financiera",
+    "cool_button": "¡Comienza tu viaje ahora!",
+    "cool_title": "Un curso de 3 meses para cambiar tu vida",
+    "cool_description": "Accede a grabaciones para toda la vida. Aprende a gestionar tus finanzas, superar el miedo al dinero y vivir en plenitud."
   },
   "InfoLanding": {
     "title": "Vuelve a disfrutar en familia",
