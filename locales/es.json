@@ -9,7 +9,7 @@
     "back": "Atrás",
     "welcome_back": "Bienvenida de nuevo",
     "use_email_to_sign_in": "Usa tu correo electrónico para acceder a tu cuenta en Solución Mujer",
-    "don_not_have_an_account": "¿No tienes una cuenta?",
+    "don't_have_an_account": "¿No tienes una cuenta?",
     "sign_up": "Regístrate",
     "email": "Correo electrónico",
     "sign_up_with_email": "Registrarse con correo electrónico",
@@ -42,70 +42,70 @@
   "sitefooter": {
     "sections": {
       "Company": "Empresa",
-      "Ullr AI Products": "Plataforma de bienestar financiero",
-      "Resources": "Recursos para mujeres"
+      "Ullr AI Products": "Plataforma de bienestar familiar",
+      "Resources": "Recursos para familias"
     },
     "links": {
-      "About": "Sobre nosotras",
+      "About": "Sobre nosotros",
       "Terms": "Términos",
       "Privacy": "Privacidad",
       "Blog": "Blog",
       "Pricing": "Precios",
       "Styles": "Recursos",
-      "HeadShots fun": "Solución Mujer"
+      "HeadShots fun": "Bienestar Familiar"
     },
     "copyright": "Copyright © 2024. Todos los derechos reservados.",
     "built_by": "Desarrollado por",
-    "open_source_by": "Inspirado por mujeres reales"
+    "open_source_by": "Código abierto por"
   },
   "HeroLanding": {
-    "make-photo-successful": "¡Recupera tu poder financiero!",
-    "fun_pro_for_every_occasion": "Descubre un nuevo mundo de libertad y abundancia con",
-    "headshots_fun": "Solución Mujer",
-    "get_unique_portraits": "Aprende a gestionar tu dinero, liberarte del estrés financiero y construir la vida que sueñas con herramientas educativas y emocionales.",
-    "get_your_headshots": "Accede gratis a nuestras herramientas y empieza hoy"
+    "make-photo-successful": "¡Recupera el tiempo en familia!",
+    "fun_pro_for_every_occasion": "Descubre un nuevo mundo de conexión con tus hijos a través de",
+    "headshots_fun": "nuestro sistema TOP",
+    "get_unique_portraits": "Aprende a reducir el tiempo frente a las pantallas y a crear momentos inolvidables con actividades transformadoras, optimistas y presentes.",
+    "get_your_headshots": "Descarga gratis nuestras herramientas y empieza hoy"
   },
   "Testimonials": {
     "label": "Testimonios",
-    "title": "Lo que dicen nuestras alumnas",
-    "subtitle": "Descubre cómo Solución Mujer ha transformado la relación de cientos de mujeres con el dinero.",
+    "title": "Lo que dicen las familias",
+    "subtitle": "Descubre cómo nuestro sistema ha ayudado a padres a conectar con sus hijos.",
     "reviews": {
-      "1": "Gracias a este curso, ahora entiendo cómo organizar mis finanzas. Me siento más tranquila y empoderada.",
-      "2": "Nunca imaginé que podría empezar a ahorrar y soñar con viajar. Solución Mujer cambió mi mentalidad.",
-      "3": "La parte emocional me ayudó a soltar muchos miedos. Hoy puedo hablar de dinero sin ansiedad.",
-      "4": "Aprendí lo que nunca me enseñaron en casa o la escuela. Esto debería ser obligatorio para todas las mujeres.",
-      "5": "Me siento como una Reina. Sé que puedo tomar decisiones financieras sin depender de nadie.",
-      "6": "Lo mejor es que es claro y fácil de seguir. No necesitas saber de finanzas para empezar.",
-      "7": "Este curso fue un antes y un después. Empecé a invertir y ya tengo mis primeras ganancias.",
-      "8": "Poder enseñar a mis hijos sobre dinero desde el amor no tiene precio. ¡Gracias por todo!"
+      "1": "Gracias a este sistema, ahora mis hijos juegan más y pasan menos tiempo con el móvil. ¡Se ha transformado nuestra dinámica familiar!",
+      "2": "Nunca imaginé que con herramientas tan simples podría reducir las rabietas y mejorar la convivencia en casa.",
+      "3": "El test de evaluación me abrió los ojos sobre cuánto dependíamos de las pantallas. Ahora tenemos un plan claro para cambiarlo.",
+      "4": "Mis hijos están más tranquilos, creativos y presentes. Este sistema funciona y lo recomiendo a todas las familias.",
+      "5": "Hemos vuelto a jugar juntos y a conversar más. Nos dimos cuenta de que el problema no eran las pantallas, sino cómo gestionábamos el tiempo en familia.",
+      "6": "Lo mejor es que es fácil de aplicar. No necesitas ser un experto, solo ganas de mejorar la relación con tus hijos.",
+      "7": "Este sistema ha sido un cambio de juego en nuestro hogar. Pasamos de discusiones constantes a disfrutar el tiempo juntos.",
+      "8": "La conexión que hemos recuperado con nuestros hijos no tiene precio. ¡Gracias por estas herramientas maravillosas!"
     }
   },
   "InfoLanding": {
-    "title": "Vuelve a confiar en ti",
-    "description": "Descubre cómo tomar el control de tu economía con herramientas sencillas, prácticas y cargadas de amor propio.",
+    "title": "Vuelve a disfrutar en familia",
+    "description": "Descubre cómo reemplazar las pantallas por actividades llenas de creatividad, conexión y mindfulness.",
     "list": {
       "title": {
-        "1": "Aprende lo esencial",
-        "2": "Reconecta con tu poder",
-        "3": "Transforma tu vida"
+        "1": "Aprende estrategias efectivas",
+        "2": "Recupera la armonía en casa",
+        "3": "Disfruta sin pantallas"
       },
       "description": {
-        "1": "Gestiona tu dinero desde cero sin sentirte perdida ni juzgada.",
-        "2": "Identifica creencias limitantes que sabotean tu abundancia.",
-        "3": "Crea una nueva realidad financiera para ti y tu familia."
+        "1": "Implementa nuestro sistema TOP para transformar la dinámica familiar.",
+        "2": "Evita conflictos y mejora la comunicación con herramientas simples y poderosas.",
+        "3": "Descubre actividades creativas y experiencias que reemplazan la dependencia digital."
       }
     }
   },
   "PricingPage": {
     "metadata": {
       "title": "Precios – {siteTitle}",
-      "description": "Explora nuestros recursos para mejorar tu bienestar financiero."
+      "description": "Explora nuestros recursos para mejorar el bienestar familiar."
     },
     "label": "Precios",
     "title": "Accede a nuestras herramientas",
-    "subtitle": "Descubre los recursos gratuitos y las opciones avanzadas para transformar tu economía personal.",
-    "trial_section_description": "Empieza con nuestros materiales gratuitos y accede a contenido premium para profundizar tu cambio.",
-    "1_credit_1_headshot": "1 Recurso = 1 Estrategia financiera",
+    "subtitle": "Descubre los recursos gratuitos y las opciones avanzadas para mejorar tu vida en familia.",
+    "trial_section_description": "Empieza con nuestros materiales gratuitos y accede a recursos premium si deseas profundizar más.",
+    "1_credit_1_headshot": "1 Recurso = 1 Estrategia efectiva",
     "processing": "Procesando...",
     "purchase": "Acceder",
     "most_popular": "Más popular",
@@ -115,20 +115,20 @@
     "credits": "Recursos",
     "plans": {
       "1": {
-        "description": "Kit inicial: Primeros pasos hacia tu libertad financiera",
-        "features": "Guía PDF + Test emocional"
+        "description": "Kit inicial: Primeros pasos para reducir el uso de pantallas",
+        "features": "Guía en PDF + Test de evaluación"
       },
       "2": {
-        "description": "Recursos esenciales: Claves para salir del miedo y crear orden",
-        "features": "Ejercicios + Casos reales"
+        "description": "Recursos esenciales: Estrategias probadas para mejorar la convivencia",
+        "features": "Ejercicios + Casos prácticos"
       },
       "3": {
-        "description": "Plan transformador: Transforma tu economía y tu autoestima",
-        "features": "Curso completo de 3 meses + Comunidad"
+        "description": "Plan transformador: Implementa cambios duraderos en tu hogar",
+        "features": "Acceso a curso online + Soporte en comunidad"
       },
       "4": {
         "description": "Acompañamiento personalizado",
-        "features": "Sesión 1 a 1 + Plan individualizado"
+        "features": "Sesión con experto + Plan individualizado"
       }
     }
   },
@@ -138,20 +138,20 @@
     "subtitle": "Preguntas frecuentes sobre nuestro sistema y recursos.",
     "qa": [
       [
-        "¿Qué es Solución Mujer?",
-        "Es un programa educativo y emocional para ayudarte a tomar el control de tus finanzas personales y vivir con libertad."
+        "¿En qué consiste este sistema?",
+        "Es un método diseñado para ayudar a las familias a reducir el tiempo frente a las pantallas y mejorar la conexión entre padres e hijos."
       ],
       [
-        "¿Necesito saber de finanzas para empezar?",
-        "No. Está diseñado para mujeres sin experiencia previa. Te guiamos paso a paso."
+        "¿Es necesario eliminar completamente las pantallas?",
+        "No, el objetivo no es prohibir, sino equilibrar y ofrecer alternativas enriquecedoras."
       ],
       [
-        "¿Este curso me sirve si tengo deudas?",
-        "Sí. Incluye estrategias para salir de deudas y dejar de vivir con ansiedad económica."
+        "¿Qué edad es la ideal para aplicar estas estrategias?",
+        "Nuestro sistema está diseñado para familias con niños de 6 a 13 años, pero muchas estrategias pueden adaptarse a diferentes edades."
       ],
       [
-        "¿Tengo acceso para siempre?",
-        "Sí. El acceso es de por vida. Podrás volver a los contenidos siempre que lo necesites."
+        "¿Necesito comprar algo para empezar?",
+        "No. Puedes acceder a nuestros recursos gratuitos y empezar a aplicar cambios desde hoy."
       ]
     ]
   }
