@@ -200,32 +200,32 @@
     "most_popular": "Más popular",
     "package": "Paquete",
     "price": "Precio",
-    "price_per": "Precio por",
+    "price_per": "Precio del crédito",
     "credits": "Créditos",
     "plans": {
       "1": {
         "description": "Iniciador de selfies: Tu primer paso hacia el glamour con IA",
-        "features": "2 Créditos"
+        "features": "10 Créditos"
       },
       "2": {
         "description": "Encanto casual: Dale un toque especial a tus redes sociales",
-        "features": "10 Créditos"
+        "features": "20 Créditos"
       },
       "3": {
         "description": "Superestrella de fotos: Desata tu modelo interior",
-        "features": "25 Créditos"
+        "features": "50 Créditos"
       },
       "4": {
         "description": "Retrato profesional: Eleva tu presencia en línea",
-        "features": "50 Créditos"
+        "features": "100 Créditos"
       },
       "5": {
         "description": "Transformador de equipo: Haz brillar a todo tu grupo",
-        "features": "100 Créditos"
+        "features": "200 Créditos"
       },
       "6": {
-        "description": "Paraíso de headshots: Disfruta de diversión ilimitada",
-        "features": "200 Créditos"
+        "description": "6th description",
+        "features": "X Credits"
       }
     }
 },
