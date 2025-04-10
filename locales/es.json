@@ -405,7 +405,24 @@
     "are_you_sure":"¿Estás seguro?",
     "save":"Guardar",
     "your_name_has_been_updated":"Tu nombre ha sido actualizado",
-    "please_enter_a_display_avatar_you_are_comfortable_with":"Por favor, sube una imagen con la que te sientas cómodo",
-    "permanently_delete_your_account_and_credits":"Eliminar permanentemente tu cuenta y créditos"
-}
+    "please_enter_a_display_avatar_you_are_comfortable_with":"Por favor, sube una imagen como avatar.",
+    "permanently_delete_your_account_and_credits":"Eliminar permanentemente tu cuenta y créditos",
+    "your_name": "Tu nombre",
+    "please_enter_a_display_name_you_are_comfortable_with": "Por favor, introduce nombre de usuario.",
+    "changes": "Cambios",
+    "your_name_was_not_updated_please_try_again": "Tu nombre no fue actualizado. Por favor, intenta de nuevo.",
+    "something_went_wrong": "Algo salió mal.",
+    "your_avatar_has_been_updated": "Tu avatar ha sido actualizado.",
+    "your_avatar_was_not_updated_please_try_again": "Tu avatar no fue actualizado. Por favor, intenta de nuevo.",
+    "something_went_wrong_with_avatar_update": "Algo salió mal con la actualización del avatar."
+  },
+  "payment-status":{
+    "title": "Estado del Pago",
+    "loading": "Cargando estado del pago...",
+    "success": "¡Pago realizado correctamente!",
+    "processing": "El pago aún está en proceso.",
+    "go_to_dashboard": "Ir al panel de control",
+    "return_to_pricing": "Volver a Precios",
+    "missing_session_id": "Hubo un error en el pago. Por favor, chequea el enlace de su pago de nuevo o contacte con el servicio de soporte."
+  }
 }
