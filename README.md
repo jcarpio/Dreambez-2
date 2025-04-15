@@ -1,4 +1,4 @@
-# 📸 HeadShots.fun
+# 📸 DreamBez.com
 
 <div align="center">
 
@@ -92,7 +92,7 @@ This project is built upon [next-saas-stripe-starter](https://github.com/mickasm
 
 ## Open Source
 
-We're thrilled to announce that HeadShots.fun is now open source! 
+We're thrilled to announce that HeadShots.fun is now open source!
 By complying with the license, developers are empowered to contribute, customize, and extend the platform.
 
 If you need business support, such as deployment/custom development or technical consulting services, please feel free to contact us at headshots-fun@ullrai.com .
@@ -110,9 +110,9 @@ Professional portraits for every career stage at [HeadShot.cv](https://headshot.
 
 ## License
 Please ensure that the Powered link remains in the footer.
-And Then this project is now released under the [AGPL 3.0](./LICENSE.md). 
+And Then this project is now released under the [AGPL 3.0](./LICENSE.md).
 
-> If the main contributors agree, we may switch to a more permissive license in future versions. 
+> If the main contributors agree, we may switch to a more permissive license in future versions.
 
 ---
 [HeadShots.fun](https://headshots.fun/?from=GitHub) - Fun & Pro for Every Occasion, Just Shoot!
